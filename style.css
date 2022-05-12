@@ -1,4 +1,4 @@
-.ti {
+header {
   background-color: #e4d5a8;
   text-align: center;
   height: auto;
@@ -10,17 +10,3 @@
 
 }
 
-
-.h4 {}
-
-.t {}
-
-.ti2 {}
-
-.ti2l {}
-
-.menu {
-  border-width: 2px;
-  border-style: solid;
-  border-color: rgb(226, 111, 35);
-}
